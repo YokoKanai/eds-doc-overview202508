@@ -1,1 +1,10 @@
-https://author-p162967-e1749276.adobeaemcloud.com/bin/franklin.delivery/YokoKanai/eds-doc-overview202508/main
+{
+  "mappings": [
+    "/content/eds-doc-overview202508/:/",
+    "/content/eds-doc-overview202508/configuration:/.helix/config.json",
+    "/content/eds-doc-overview202508/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/eds-doc-overview202508/"
+  ]
+}
