@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/eds-doc-overview202508/:/",
-    "/content/eds-doc-overview202508/configuration:/.helix/config.json",
-    "/content/eds-doc-overview202508/metadata:/metadata.json"
+    "https://main--eds-doc-overview202508--yokokanai.aem.live/:/",
+    "https://main--eds-doc-overview202508--yokokanai.aem.live/configuration:/.helix/config.json",
+    "https://main--eds-doc-overview202508--yokokanai.aem.live/metadata:/metadata.json"
   ],
   "includes": [
     "/content/eds-doc-202508/"
