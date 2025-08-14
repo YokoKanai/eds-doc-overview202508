@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/eds-doc-202508/:/",
-    "/content/eds-doc-202508/configuration:/.helix/config.json",
-    "/content/eds-doc-202508/metadata:/metadata.json"
+    "/content/eds-doc-overview202508/:/",
+    "/content/eds-doc-overview202508/configuration:/.helix/config.json",
+    "/content/eds-doc-overview202508/metadata:/metadata.json"
   ],
   "includes": [
     "/content/eds-doc-202508/"
