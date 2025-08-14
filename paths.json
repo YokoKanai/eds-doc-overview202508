@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "https://main--eds-doc-overview202508--yokokanai.aem.live/:/",
-    "https://main--eds-doc-overview202508--yokokanai.aem.live/configuration:/.helix/config.json",
-    "https://main--eds-doc-overview202508--yokokanai.aem.live/metadata:/metadata.json"
+    "/content/aem-boilerplate/:/",
+    "/content/aem-boilerplate/configuration:/.helix/config.json",
+    "/content/aem-boilerplate/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/eds-doc-202508/"
+    "/content/aem-boilerplate/"
   ]
 }
